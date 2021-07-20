@@ -1,3 +1,9 @@
+raspi-config (20210720) buster; urgency=medium
+
+  * Fix copyright missing
+
+ -- Zhi Han <z.han@kunbus.com>  Tue, 20 Jul 2021 14:23:39 +0200
+
 raspi-config (20210212) buster; urgency=medium
 
   * Update boot order menu
